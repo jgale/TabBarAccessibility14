@@ -42,3 +42,7 @@ Actual:
 
 This is unexpected and will cause accessibility users confusion.
 
+Screenshot:
+
+![Incorrect accessibility labels](https://github.com/jgale/TabBarAccessibility14/blob/main/tab_accessibility_labels.jpg)
+
