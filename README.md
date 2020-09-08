@@ -1,4 +1,4 @@
-I've made a GitHub repo that reproduces the example: https://github.com/jgale/TabBarAccessibility14. I've also attached a .zip here, and pasted the code inline. I've filed a Feedback with Apple: FB8653658
+I've filed a Feedback with Apple: FB8653658. [OpenRadar](https://openradar.appspot.com/radar?id=5061073585569792)
 
 # Description
 
